@@ -1,4 +1,4 @@
-# Python cPanel Karma Lite
+# Python Mass cPanel Checker
 
 Accurate Python Mass cPanel Checker
 
