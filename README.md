@@ -13,7 +13,6 @@ The results will save in [**yourtext.txt**]
 
 1. Mass cPanel Checker (Unlimited)
 2. Mass cPanel To Shell (Unlimited)
-3. Mass Deceptive/Red Shell Checker
 
 **CPANEL Format:** https://domain:2083|user|pass
 
