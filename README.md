@@ -2,7 +2,7 @@
 
 Accurate Python Mass cPanel Checker
 
-Requirements: **Python3**
+Requirements: **Python3** [pip install requests]
 
 Usage: **python3 karma.py**
 
